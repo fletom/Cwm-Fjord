@@ -1,0 +1,373 @@
+TCwm Fjord
+v7
+r0
+t293755355.263646
+cCheck dependencies
+cProcessInfoPlistFile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Info.plist" Cwm_Fjord-Info.plist
+cCopyStringsFile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch.gch Cwm_Fjord_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch.gch Cwm_Fjord_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch.gch Cwm_Fjord_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/main.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm_FjordAppDelegate.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/main.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm_FjordAppDelegate.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/main.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord" normal x86_64
+cCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm_FjordAppDelegate.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord" normal i386
+cLd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord" normal ppc
+cCreateUniversalBinary "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app.dSYM" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord"
+cTouch "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.h
+c000000004BD20D7D0000000000000215
+t1272057213
+s533
+i<Cocoa/Cocoa.h>
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m
+c000000004BD221DC000000000000037A
+t1272062428
+s890
+i"Cwm_FjordAppDelegate.h"
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch
+c000000004BD1FC4B0000000000000095
+t1272052811
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/InfoPlist.strings
+c000000004BD1FC4B000000000000002D
+t1272052811
+s45
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/MainMenu.xib
+c000000004BD221890000000000019B48
+t1272062345
+s105288
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord
+t1272062552
+s18356
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord.LinkFileList
+c000000004BD221EF0000000000000128
+t1272062447
+s296
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm_FjordAppDelegate.o
+t1272062551
+s17696
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/main.o
+t1272062551
+s4900
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord
+t1272062555
+s18068
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord.LinkFileList
+c000000004BD221EF0000000000000126
+t1272062447
+s294
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm_FjordAppDelegate.o
+t1272062554
+s18216
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/main.o
+t1272062554
+s4928
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord
+t1272062552
+s15624
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord.LinkFileList
+c000000004BD221EF000000000000012C
+t1272062447
+s300
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm_FjordAppDelegate.o
+t1272062551
+s26100
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/main.o
+t1272062551
+s5104
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app
+t1272062555
+s102
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app.dSYM
+t1272062555
+s102
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Info.plist
+t1272062447
+s892
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord
+t1272062555
+s59028
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/PkgInfo
+t1272062447
+s8
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1272062448
+s92
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj/MainMenu.nib
+t1272062448
+s24117
+
+N/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m
+c000000004BD1FC4B0000000000000104
+t1272052811
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch.gch
+t1272062548
+s52737616
+
+N/var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch.gch
+t1272062545
+s52868880
+
+N/var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch.gch
+t1272062548
+s55502640
+
+NCwm_Fjord-Info.plist
+c000000004BD1FC4B00000000000003EA
+t1272052811
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293755247#293755247#0(0"0(0#1#0"4300931360#0"0#
+
+CCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm_FjordAppDelegate.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293755349.083530
+e293755351.866195
+r1
+xCompileC
+xbuild/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm_FjordAppDelegate.o
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m293755349#293755351#0(0"0(0#0#89"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m4300931360#1882"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/i386" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -include /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm_FjordAppDelegate.o"0#
+
+CCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/main.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293755349.082324
+e293755351.842461
+r1
+xCompileC
+xbuild/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/main.o
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m293755349#293755351#0(0"0(0#0#73"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m4300931360#1850"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/i386" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -include /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm_FjordAppDelegate.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s293755351.842566
+e293755354.166500
+r1
+xCompileC
+xbuild/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm_FjordAppDelegate.o
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m293755351#293755354#0(0"0(0#0#89"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m4300931360#1876"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/ppc" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -include /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm_FjordAppDelegate.o"0#
+
+CCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/main.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s293755351.322954
+e293755354.166122
+r1
+xCompileC
+xbuild/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/main.o
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m293755351#293755354#0(0"0(0#0#73"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m4300931360#1844"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/ppc" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -include /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm_FjordAppDelegate.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293755349.081186
+e293755351.352762
+r1
+xCompileC
+xbuild/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm_FjordAppDelegate.o
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m293755349#293755351#0(0"0(0#0#89"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m4300931360#1888"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/x86_64" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -include /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_FjordAppDelegate.m" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm_FjordAppDelegate.o"0#
+
+CCompileC "build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/main.o" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293755349.058135
+e293755351.322734
+r1
+xCompileC
+xbuild/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/main.o
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m293755349#293755351#0(0"0(0#0#73"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m4300931360#1856"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/x86_64" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -include /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/main.m" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/MainMenu.xib"
+s293755247.743760
+e293755248.153691
+r1
+xCompileXIB
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib293755247#293755248#0(0"0(0#0#93"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/MainMenu.xib4300931360#421"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/MainMenu.xib"0#
+
+CCopyStringsFile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s293755247.742663
+e293755248.200914
+r1
+xCopyStringsFile
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings293755247#293755248#0(0"0(0#0#98"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/English.lproj/InfoPlist.strings4300931360#429"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord" normal "x86_64 i386 ppc"
+s293755355.056765
+e293755355.117799
+r1
+xCreateUniversalBinary
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@101"CreateUniversalBinary "build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord" normal "x86_64 i386 ppc"293755355#293755355#0(0"0(0#0#82"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/x86_64 i386 ppc4300931360#668"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    /usr/bin/lipo -create "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord" -output "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord"0#
+
+CGenerateDSYMFile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app.dSYM" "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord"
+s293755355.117904
+e293755355.260181
+r1
+xGenerateDSYMFile
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app.dSYM
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord
+lSLF07#2@106"GenerateDSYMFile "build/Release/Cwm Fjord.app.dSYM" "build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord"293755355#293755355#0(0"0(0#0#119"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord4300931360#335"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    /Developer/usr/bin/dsymutil "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/MacOS/Cwm Fjord" -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app.dSYM"0#
+
+CLd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord" normal i386
+s293755351.866330
+e293755352.860320
+r1
+xLd
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord
+xnormal
+xi386
+lSLF07#2@147"Link /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord293755351#293755352#0(0"0(0#0#0"4300931360#729"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" -filelist "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/i386/Cwm Fjord"0#
+
+CLd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord" normal ppc
+s293755354.166623
+e293755355.056504
+r1
+xLd
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord
+xnormal
+xppc
+lSLF07#2@146"Link /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord293755354#293755355#0(0"0(0#0#0"4300931360#726"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" -filelist "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/ppc/Cwm Fjord"0#
+
+CLd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord" normal x86_64
+s293755351.352854
+e293755352.480784
+r1
+xLd
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord
+xnormal
+xx86_64
+lSLF07#2@149"Link /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord293755351#293755352#0(0"0(0#0#0"4300931360#735"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" -filelist "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Objects-normal/x86_64/Cwm Fjord"0#
+
+CProcessInfoPlistFile "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Info.plist" Cwm_Fjord-Info.plist
+s293755247.737191
+e293755247.742518
+r1
+xProcessInfoPlistFile
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Info.plist
+xCwm_Fjord-Info.plist
+lSLF07#2@28"Process Cwm_Fjord-Info.plist293755247#293755247#0(0"0(0#0#87"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord-Info.plist4300931360#410"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    builtin-infoPlistUtility Cwm_Fjord-Info.plist -genpkginfo "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch.gch Cwm_Fjord_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s293755248.203478
+e293755349.057988
+r1
+xProcessPCH
+x/var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch.gch
+xCwm_Fjord_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Cwm_Fjord_Prefix.pch293755248#293755349#0(0"0(0#0#87"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch4300931360#1719"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/ppc" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch" -o /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-bffmszirpxaweucnclpimxududef/Cwm_Fjord_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch.gch Cwm_Fjord_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293755248.201069
+e293755345.759874
+r1
+xProcessPCH
+x/var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch.gch
+xCwm_Fjord_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Cwm_Fjord_Prefix.pch293755248#293755345#0(0"0(0#0#87"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch4300931360#1728"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/x86_64" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch" -o /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-eoghtgbszexfdhfdykgtmxlbwola/Cwm_Fjord_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch.gch Cwm_Fjord_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293755248.202328
+e293755348.270883
+r1
+xProcessPCH
+x/var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch.gch
+xCwm_Fjord_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Cwm_Fjord_Prefix.pch293755248#293755348#0(0"0(0#0#87"/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch4300931360#1724"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-generated-files.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-own-target-headers.hmap" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-all-target-headers.hmap" -iquote "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/Cwm Fjord-project-headers.hmap" "-F/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/include" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources/i386" "-I/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Cwm Fjord.build/Release/Cwm Fjord.build/DerivedSources" -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm_Fjord_Prefix.pch" -o /var/folders/ro/rocK6bV5EmSX2A4kb+up+++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cwm_Fjord_Prefix-grhouahwranoaqfqzkuxgvfbykzh/Cwm_Fjord_Prefix.pch.gch0#
+
+CTouch "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app"
+s293755355.260290
+e293755355.263608
+r1
+xTouch
+x/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app
+lSLF07#2@100"Touch /Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app293755355#293755355#0(0"0(0#0#0"4300931360#195"    cd "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord"    /usr/bin/touch -c "/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/build/Release/Cwm Fjord.app"0#
+

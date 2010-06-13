@@ -1,0 +1,165 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* Cwm_FjordAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 580}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 533}";
+			sepNavWindowFrame = "{{15, 249}, {863, 774}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Cwm_FjordAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 603}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 880}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 5A24092D118233CC0018ABE9 /* Cwm Fjord */;
+		activeTarget = 8D1107260486CEB800E47090 /* Cwm Fjord */;
+		codeSenseManager = 5A24093E118233D40018ABE9 /* Code sense */;
+		executables = (
+			5A24092D118233CC0018ABE9 /* Cwm Fjord */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1234,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 293745612;
+			PBXWorkspaceStateSaveDate = 293745612;
+		};
+		perUserProjectItems = {
+			5A2409A011823B0D0018ABE9 /* PBXTextBookmark */ = 5A2409A011823B0D0018ABE9 /* PBXTextBookmark */;
+			5A240A0A11824AC30018ABE9 /* PBXTextBookmark */ = 5A240A0A11824AC30018ABE9 /* PBXTextBookmark */;
+			5A240A4E11826BE90018ABE9 /* PBXTextBookmark */ = 5A240A4E11826BE90018ABE9 /* PBXTextBookmark */;
+			5A240A5611826F720018ABE9 /* PBXTextBookmark */ = 5A240A5611826F720018ABE9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5A24093D118233D40018ABE9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 580}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	5A24092D118233CC0018ABE9 /* Cwm Fjord */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Cwm Fjord";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	5A24093D118233D40018ABE9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5A24093E118233D40018ABE9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5A2409A011823B0D0018ABE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	5A240A0A11824AC30018ABE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* Cwm_FjordAppDelegate.h */;
+		name = "Cwm_FjordAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 533;
+		vrLoc = 0;
+	};
+	5A240A4E11826BE90018ABE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Cwm_FjordAppDelegate.m */;
+		name = "Cwm_FjordAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 30;
+	};
+	5A240A5611826F720018ABE9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Cwm_FjordAppDelegate.m */;
+		name = "Cwm_FjordAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* Cwm Fjord */ = {
+		activeExec = 0;
+		executables = (
+			5A24092D118233CC0018ABE9 /* Cwm Fjord */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Cwm_Fjord-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 228}, {863, 774}}";
+		};
+	};
+}
