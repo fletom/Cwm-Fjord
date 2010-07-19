@@ -8,7 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface Cwm_FjordAppDelegate : NSObject <NSApplicationDelegate> {
+@interface Cwm_FjordAppDelegate : NSObject {
 	NSString *string;
 	NSString *processedString;
 	NSMutableCharacterSet *absentChars;
