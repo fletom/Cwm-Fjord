@@ -338,7 +338,10 @@
 						<key>PBXSmartGroupTreeModuleOutlineStateKey_v7</key>
 						<dict>
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
-							<array/>
+							<array>
+								<string>29B97314FDCFA39411CA2CEA</string>
+								<string>29B97317FDCFA39411CA2CEA</string>
+							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
@@ -377,7 +380,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>5A240937118233D30018ABE9</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Cwm_FjordAppDelegate.m</string>
+								<string>Cwm_Fjord-Info.plist</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -385,16 +388,19 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>5A240938118233D30018ABE9</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Cwm_FjordAppDelegate.m</string>
+										<string>Cwm_Fjord-Info.plist</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>5A240A5611826F720018ABE9</string>
+										<string>5A57E63811E9718B004B2520</string>
 										<key>history</key>
 										<array>
-											<string>5A2409A011823B0D0018ABE9</string>
-											<string>5A240A0A11824AC30018ABE9</string>
-											<string>5A240A4E11826BE90018ABE9</string>
+											<string>5AD20B7111C6B09B0097F9A1</string>
+											<string>5AD20B7211C6B09B0097F9A1</string>
+											<string>5AD20B7411C6B09B0097F9A1</string>
+											<string>5A57E63511E97189004B2520</string>
+											<string>5A57E63611E97189004B2520</string>
+											<string>5AD20B7011C6B09B0097F9A1</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -408,16 +414,16 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1473, 635}}</string>
+								<string>{{0, 0}, {1473, 621}}</string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>635pt</string>
+							<string>621pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>288pt</string>
+							<string>302pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -431,7 +437,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1473, 261}}</string>
+										<string>{{10, 27}, {1473, 275}}</string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -513,11 +519,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>5A240939118233D30018ABE9</string>
+				<string>5A57E62E11E96F87004B2520</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>5A24093A118233D30018ABE9</string>
+				<string>5A57E62F11E96F87004B2520</string>
 				<string>5A240937118233D30018ABE9</string>
-				<string>5A24093B118233D30018ABE9</string>
+				<string>5A57E63011E96F87004B2520</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -570,14 +576,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {1680, 329}}</string>
+						<string>{{0, 0}, {1680, 178}}</string>
 						<key>RubberWindowFrame</key>
 						<string>0 59 1680 969 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
 					<key>Proportion</key>
-					<string>329pt</string>
+					<string>178pt</string>
 				</dict>
 				<dict>
 					<key>ContentConfiguration</key>
@@ -596,8 +602,8 @@
 								<string>yes</string>
 								<key>sizes</key>
 								<array>
-									<string>{{0, 0}, {819, 289}}</string>
-									<string>{{819, 0}, {861, 289}}</string>
+									<string>{{0, 0}, {820, 364}}</string>
+									<string>{{820, 0}, {860, 364}}</string>
 								</array>
 							</dict>
 							<key>VerticalSplitView</key>
@@ -612,8 +618,8 @@
 								<string>yes</string>
 								<key>sizes</key>
 								<array>
-									<string>{{0, 0}, {1680, 289}}</string>
-									<string>{{0, 289}, {1680, 305}}</string>
+									<string>{{0, 0}, {1680, 364}}</string>
+									<string>{{0, 364}, {1680, 381}}</string>
 								</array>
 							</dict>
 						</dict>
@@ -633,7 +639,7 @@
 						<key>DebugSTDIOWindowFrame</key>
 						<string>{{200, 200}, {500, 300}}</string>
 						<key>Frame</key>
-						<string>{{0, 334}, {1680, 594}}</string>
+						<string>{{0, 183}, {1680, 745}}</string>
 						<key>PBXDebugSessionStackFrameViewKey</key>
 						<dict>
 							<key>DebugVariablesTableConfiguration</key>
@@ -643,10 +649,10 @@
 								<string>Value</string>
 								<real>85</real>
 								<string>Summary</string>
-								<real>631</real>
+								<real>630</real>
 							</array>
 							<key>Frame</key>
-							<string>{{819, 0}, {861, 289}}</string>
+							<string>{{820, 0}, {860, 364}}</string>
 							<key>RubberWindowFrame</key>
 							<string>0 59 1680 969 0 0 1680 1028 </string>
 						</dict>
@@ -656,7 +662,7 @@
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
 					<key>Proportion</key>
-					<string>594pt</string>
+					<string>745pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -674,14 +680,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>5A2409701182387A0018ABE9</string>
+				<string>5A57E63911E9718B004B2520</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>5A2409711182387A0018ABE9</string>
-				<string>5A2409721182387A0018ABE9</string>
-				<string>5A2409731182387A0018ABE9</string>
-				<string>5A2409741182387A0018ABE9</string>
-				<string>5A2409431182354C0018ABE9</string>
+				<string>5A57E63A11E9718B004B2520</string>
+				<string>5A57E63B11E9718B004B2520</string>
+				<string>5A57E63C11E9718B004B2520</string>
+				<string>5A57E63D11E9718B004B2520</string>
+				<string>5A240937118233D30018ABE9</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -698,7 +704,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>293760882.98784202</real>
+	<real>300511627.080926</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -715,9 +721,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>5A2409751182387A0018ABE9</string>
-		<string>5A2409761182387A0018ABE9</string>
-		<string>/Users/fletcher/Documents/Work/Current/Cocoa Programming/Cwm Fjord/Cwm Fjord.xcodeproj</string>
+		<string>5A57E63E11E9718B004B2520</string>
+		<string>5A57E63F11E9718B004B2520</string>
+		<string>5A57E64011E9718B004B2520</string>
+		<string>/Users/fletcher/Documents/Work/Current/Cwm Fjord/Cwm Fjord.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 59 1680 969 0 0 1680 1028 </string>
