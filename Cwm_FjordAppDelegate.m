@@ -19,7 +19,9 @@
 	[self updateCharCount];
 }
 - (void)updateCharCount {
-	[charCount setIntValue:[string length]];
+	alpha_only_string = string;
+	alpha_only_string = [alpha_only_string stringByMatching:[RKRegex regexWithRegexString:@"[^a-zA-Z]" options:0] replace:RKReplaceAll withReferenceString:@""];
+	[charCount setIntValue:[alpha_only_string length]];
 }
 - (void)updateMissingChars {
 	if ([string length] > 0) {

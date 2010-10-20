@@ -7,9 +7,11 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import <RegexKit/RegexKit.h>
 
 @interface Cwm_FjordAppDelegate : NSObject {
 	NSString *string;
+	NSString* alpha_only_string;
 	NSString *processedString;
 	NSMutableCharacterSet *absentChars;
 	
