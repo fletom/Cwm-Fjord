@@ -16,4 +16,4 @@ Examples include:
 - The quick brown fox jumped over the lazy dog.
 - The five boxing wizards jumped quickly.
 
-See http://en.wikipedia.org/wiki/List_of_pangrams for a large list of pangrams.
+See http://web.archive.org/web/20141012231620/http://en.wikipedia.org/wiki/List_of_pangrams for a large list of pangrams.
